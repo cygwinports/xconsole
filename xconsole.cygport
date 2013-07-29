@@ -1,0 +1,9 @@
+inherit xorg
+
+NAME="xconsole"
+VERSION=1.0.6
+RELEASE=1
+CATEGORY="X11"
+SUMMARY="X system console messages monitor"
+DESCRIPTION="The xconsole program displays messages which are usually sent to
+/dev/console."
